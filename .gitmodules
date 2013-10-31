@@ -1,0 +1,57 @@
+[submodule "topcoat"]
+	path = topcoat
+	url = git@github.com:monaca/topcoat.git
+[submodule "button"]
+	path = button
+	url = git@github.com:monaca/button.git
+[submodule "button-bar"]
+	path = button-bar
+	url = git@github.com:monaca/button-bar.git
+[submodule "button-bar-base"]
+	path = button-bar-base
+	url = git@github.com:monaca/button-bar-base.git
+[submodule "checkbox"]
+	path = checkbox
+	url = git@github.com:monaca/checkbox.git
+[submodule "icon-button"]
+	path = icon-button
+	url = git@github.com:monaca/icon-button.git
+[submodule "list"]
+	path = list
+	url = git@github.com:monaca/list.git
+[submodule "list-base"]
+	path = list-base
+	url = git@github.com:monaca/list-base.git
+[submodule "navigation-bar"]
+	path = navigation-bar
+	url = git@github.com:monaca/navigation-bar.git
+[submodule "notification"]
+	path = notification
+	url = git@github.com:monaca/notification.git
+[submodule "notification-base"]
+	path = notification-base
+	url = git@github.com:monaca/notification-base.git
+[submodule "radio-button"]
+	path = radio-button
+	url = git@github.com:monaca/radio-button.git
+[submodule "range"]
+	path = range
+	url = git@github.com:monaca/range.git
+[submodule "search-input"]
+	path = search-input
+	url = git@github.com:monaca/search-input.git
+[submodule "switch-base"]
+	path = switch-base
+	url = git@github.com:monaca/switch-base.git
+[submodule "tab-bar"]
+	path = tab-bar
+	url = git@github.com:monaca/tab-bar.git
+[submodule "text-input"]
+	path = text-input
+	url = git@github.com:monaca/text-input.git
+[submodule "textarea"]
+	path = textarea
+	url = git@github.com:monaca/textarea.git
+[submodule "theme"]
+	path = theme
+	url = git@github.com:monaca/theme.git
