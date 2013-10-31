@@ -55,3 +55,6 @@
 [submodule "theme"]
 	path = theme
 	url = git@github.com:monaca/theme.git
+[submodule "switch"]
+	path = switch
+	url = git@github.com:monaca/switch.git
